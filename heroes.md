@@ -7,3 +7,6 @@
 * Robin
 * Flash
 * Detective Marciano
+* Linterna Verde
+* Hulk
+
