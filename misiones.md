@@ -9,3 +9,4 @@
 7. Cooperar con las reinas de los amazonas
 8. Solicitar un prestamo a Batman para comprar guaro
 9. Sacar info del Jóker y Harley Queen
+10. Salvar personas secuestradas por el joker.
