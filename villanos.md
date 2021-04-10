@@ -11,3 +11,4 @@
 * Reverse Flash
 * Mr Frío
 * Black Manta
+* Flash Reverse
