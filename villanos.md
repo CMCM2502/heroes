@@ -12,3 +12,4 @@
 * Mr Frío
 * Black Manta
 * Flash Reverse
+* Siniestro
